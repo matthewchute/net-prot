@@ -1,0 +1,7 @@
+BUFFER_SIZE = 1024
+UDP_IP = '127.0.0.1'
+UDP_PORT = 12345
+IP_PORT = (UDP_IP, UDP_PORT)
+EOF = b'<EOF>'
+SERVER_FILE_PATH = '../assets/server'
+CLIENT_FILE_PATH = '../assets/client'
